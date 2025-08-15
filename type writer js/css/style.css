@@ -1,0 +1,9 @@
+body {
+  background-color: #d6ccf5;
+}
+#app {
+  font-weight: bolder;
+  margin-top: 15rem;
+  font-size: 30px;
+  text-align: center;
+}
